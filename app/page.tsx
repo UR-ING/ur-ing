@@ -15,7 +15,7 @@ export default function Home() {
               </p>
 
               <h1 className="mb-6 text-4xl font-bold leading-tight text-white md:text-6xl">
-                NOVOGRADNJE, ADAPTACIJE IN PRENOVE vse na enem mestu!
+                NOVOGRADNJE, FINALIZACIJE IN PRENOVE vse na enem mestu!
               </h1>
 
               <p className="mb-8 max-w-xl text-lg leading-8 text-slate-300">
@@ -92,7 +92,7 @@ export default function Home() {
             <div className="rounded-3xl border border-white/10 bg-white/5 p-8 backdrop-blur-sm transition hover:-translate-y-1 hover:border-[#d4af37]/40 hover:bg-white/10">
               <div className="mb-4 h-12 w-12 rounded-2xl bg-[#b8922e]" />
               <h3 className="mb-3 text-xl font-semibold text-white">
-                Prenove stanovanj
+                Finalizacija objektov
               </h3>
               <p className="leading-7 text-slate-300">
                 Prenove stanovanj z jasnim poudarkom na sodobni ureditvi,
@@ -103,11 +103,11 @@ export default function Home() {
             <div className="rounded-3xl border border-white/10 bg-white/5 p-8 backdrop-blur-sm transition hover:-translate-y-1 hover:border-[#d4af37]/40 hover:bg-white/10">
               <div className="mb-4 h-12 w-12 rounded-2xl bg-[#8d6b1f]" />
               <h3 className="mb-3 text-xl font-semibold text-white">
-                Poslovni prostori
+                Finalizacije objektov
               </h3>
               <p className="leading-7 text-slate-300">
-                Prenove in prilagoditve poslovnih prostorov, pisarn in drugih
-                objektov z usklajenim vodenjem projekta in nadzorom izvedbe.
+                Povezujemo preverjene in strokovno usklajene izvajalce različnih področij gradnje in zaključnih del.
+                Stranki nudimo enotno koordinacijo strokovno podporo in izvedbo projekta od začetka do končne predaje
               </p>
             </div>
           </div>
