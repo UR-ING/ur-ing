@@ -26,8 +26,20 @@ export default function Navbar() {
           >
             O podjetju
           </a>
+        <a
+           href="/adaptacije"
+           className="text-sm font-medium text-slate-300 transition hover:text-white"
+          >
+           Adaptacije
+          </a>
 
           <a
+            href="/novogradnje"
+            className="text-sm font-medium text-slate-300 transition hover:text-white"
+          >
+            Novogradnje
+          </a> 
+         <a
             href="/finalizacija-objektov"
             className="text-sm font-medium text-slate-300 transition hover:text-white"
           >
