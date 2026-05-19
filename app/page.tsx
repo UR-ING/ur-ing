@@ -92,11 +92,11 @@ export default function Home() {
             <div className="rounded-3xl border border-white/10 bg-white/5 p-8 backdrop-blur-sm transition hover:-translate-y-1 hover:border-[#d4af37]/40 hover:bg-white/10">
               <div className="mb-4 h-12 w-12 rounded-2xl bg-[#b8922e]" />
               <h3 className="mb-3 text-xl font-semibold text-white">
-                Finalizacija objektov
+                Novogradnje
               </h3>
               <p className="leading-7 text-slate-300">
-                Prenove stanovanj z jasnim poudarkom na sodobni ureditvi,
-                praktičnih rešitvah in kakovostni izvedbi del.
+                Izvajamo novogradnje z jasnim povdarkom na kakovosti, organizaciji in usklajenem poteku
+                gradnje od začetka do zaključka projekta.
               </p>
             </div>
 
