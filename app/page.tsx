@@ -19,10 +19,9 @@ export default function Home() {
               </h1>
 
               <p className="mb-8 max-w-xl text-lg leading-8 text-slate-300">
-                Strokovno vodimo prenove in adaptacije objektov — od začetnega
-                načrtovanja do usklajene izvedbe. Poskrbimo za premišljen pristop,
-                jasno komunikacijo in kakovostne rešitve pri prenovi doma ali
-                poslovnega prostora.
+                Poskrbimo za strokovno organizacijo, usklajevanje in izvedbo
+                novogradenj, finalizacij ter prenov objektov. Strankam nudimo
+                celovito podporo — od načrtovanja do kakovostno izvedenega prostora.
               </p>
 
               <div className="flex flex-wrap gap-4">
@@ -95,7 +94,7 @@ export default function Home() {
                 Novogradnje
               </h3>
               <p className="leading-7 text-slate-300">
-                Izvajamo novogradnje z jasnim povdarkom na kakovosti, organizaciji in usklajenem poteku
+                Izvajamo novogradnje z jasnim poudarkom na kakovosti, organizaciji in usklajenem poteku
                 gradnje od začetka do zaključka projekta.
               </p>
             </div>
